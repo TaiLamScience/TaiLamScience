@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @TaiLamScience
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Introduction
 
-<!---
-TaiLamScience/TaiLamScience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Tai Lam.
+- 👀 I’m interested in digital security for small local non-profits.
+- 🌱 I’m currently learning the fundamentals of cybersecurity.
+- 💞️ I’m looking to collaborate on making privacy and security tools .
+- 📫 How to reach me:
+    - [Keybase](https://keybase.io/TaiLamScience)
+    - More methods may become available in the future.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my friends perceive me as a [hackerman](https://knowyourmeme.com/memes/hackerman) every time I connect HDMI projectors or trace electrical wires.
+
